@@ -27,4 +27,4 @@ The News Portal Website is built using the following technologies:
 
 ##
 
-Please note that user authentication is not required to read news articles. Users can freely access and read news articles without logging in. However, administrators will still need to authenticate themselves to access the article management features.
+**Please note that user authentication is not required to read news articles. Users can freely access and read news articles without logging in. However, administrators will still need to authenticate themselves to access the article management features.**
